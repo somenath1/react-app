@@ -1,2 +1,1 @@
-web: sh support/app_boot.sh
-
+web: vendor/bin/heroku-php-apache2 .
